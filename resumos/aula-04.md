@@ -16,8 +16,14 @@ Obs: o Git **não reconhece** diretórios vazios.
 ## Add
 > Adicionar um arquivo ao próximo commit.
 
+Arquivo específico:
 ```bash
 git add <nome-arquivo>
+```
+
+Todos os arquivos não reconhecidos na staging area:
+```bash
+git add .
 ```
 
 O arquivo em questão é adicionado à uma "área de preparação" antes de ser inserida em um commit.
