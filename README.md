@@ -9,12 +9,12 @@ Repositório para armazenar resumos das ferramentas Git e Github do curso Versio
 
 ## Resumos das Aulas
 
-| Aulas | Resumos |
-| -------|-------|
-| Introdução ao Versionamento de Código | [Resumo]()
-| O que é Git e Github? | [Resumo]()
-| Inicializando e Clonando Repositórios | [Resumo]()
-| Gravando alterações no Repositório Local | [Resumo]()
+| Aulas                                    | Resumos    |
+| ---------------------------------------- | ---------- |
+| Introdução ao Versionamento de Código    | [Resumo]() |
+| O que é Git e Github?                    | [Resumo]() |
+| Inicializando e Clonando Repositórios    | [Resumo]() |
+| Gravando alterações no Repositório Local | [Resumo]() |
 
 ## Referências
 
