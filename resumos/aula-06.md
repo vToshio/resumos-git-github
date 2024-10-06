@@ -16,3 +16,9 @@ git push -u origin main
 
 - Parâmetro -u: setupstream
 	- Configurar a branch main do repositório remoto (especificada como origin) com a branch upstream main do repositório local
+## Pull
+> Puxa as alterações realizadas dentro de um repositório no Github para o repositório local, mantendo-os "sincronizados"
+
+```bash
+git pull
+```
