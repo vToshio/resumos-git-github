@@ -19,7 +19,8 @@ Repositório para armazenar resumos das ferramentas Git e Github do curso Versio
 | Gravando alterações no Repositório Local | [Resumo](https://github.com/vToshio/dio-git-github/blob/main/resumos/aula-04.md)|
 | Desfazendo alterações em um Repositório Local | [Resumo](https://github.com/vToshio/dio-git-github/blob/main/resumos/aula-05.md)|
 | Enviando alterações para um Repositório Remoto | [Resumo](https://github.com/vToshio/dio-git-github/blob/main/resumos/aula-06.md)|
-
+| Manipulando Branches | [Resumo](https://github.com/vToshio/dio-git-github/blob/main/resumos/aula-07.md)|
+| Comandos do Úteis no dia-a-dia | [Resumo](https://github.com/vToshio/dio-git-github/blob/main/resumos/aula-08.md)|
 
 ## Referências
 
